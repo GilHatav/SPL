@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b661f945-c916-4a76-9ec4-3fcb8be627a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W1wb6lJIpQwZBVR1uaIj6u98Dr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577722387368" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.StompServer">
+    <configuration name="StompServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.net.impl.stomp.StompServer" />
+      <module name="spl-net" />
+      <option name="PROGRAM_PARAMETERS" value="7777 tpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.net.impl.stomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="maven" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.StompServer" />
+      <item itemvalue="Maven.maven" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StompServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b661f945-c916-4a76-9ec4-3fcb8be627a4" name="Default Changelist" comment="" />
+      <created>1576080803763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576080803763</updated>
+      <workItem from="1576080809460" duration="4560000" />
+      <workItem from="1576425958628" duration="620000" />
+      <workItem from="1577718845591" duration="2901000" />
+      <workItem from="1578330482570" duration="8483000" />
+      <workItem from="1578401569126" duration="13226000" />
+      <workItem from="1578421028212" duration="5161000" />
+      <workItem from="1578488133988" duration="24432000" />
+      <workItem from="1578846697328" duration="12185000" />
+      <workItem from="1578908230813" duration="14433000" />
+      <workItem from="1578944842486" duration="13600000" />
+      <workItem from="1579027407594" duration="1298000" />
+      <workItem from="1579078092240" duration="8180000" />
+      <workItem from="1579102825503" duration="497000" />
+      <workItem from="1579103568507" duration="9907000" />
+      <workItem from="1579113597686" duration="124000" />
+      <workItem from="1579113755204" duration="43000" />
+      <workItem from="1579113850916" duration="8533000" />
+      <workItem from="1579181307883" duration="12933000" />
+      <workItem from="1579195462158" duration="3700000" />
+      <workItem from="1579249864332" duration="1425000" />
+      <workItem from="1579257174512" duration="649000" />
+      <workItem from="1579263204548" duration="1584000" />
+      <workItem from="1579265115986" duration="372000" />
+      <workItem from="1579267512904" duration="2731000" />
+      <workItem from="1579270787259" duration="1359000" />
+      <workItem from="1579272203526" duration="363000" />
+      <workItem from="1579365683264" duration="1081000" />
+      <workItem from="1579367930618" duration="2430000" />
+      <workItem from="1579374332956" duration="1688000" />
+      <workItem from="1579445004732" duration="4255000" />
+      <workItem from="1579455835696" duration="164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="941" height="677" key="#Project_Structure" timestamp="1578338308305">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="941" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1578338308305" />
+    <state x="451" y="210" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579451777807">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579451777807" />
+    <state x="699" y="357" width="578" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578396498155">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="699" y="357" width="578" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578396498155" />
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1578398226321">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578398226321" />
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578331892820">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578331892820" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578845550370">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578845550370" />
+    <state x="733" y="310" width="424" height="603" key="FileChooserDialogImpl" timestamp="1578995954551">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="733" y="310" width="424" height="603" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578995954551" />
+    <state width="1807" height="344" key="GridCell.Tab.0.bottom" timestamp="1579455730470">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579455730470" />
+    <state width="1807" height="344" key="GridCell.Tab.0.center" timestamp="1579455730470">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579455730470" />
+    <state width="1807" height="344" key="GridCell.Tab.0.left" timestamp="1579455730466">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579455730466" />
+    <state width="1807" height="344" key="GridCell.Tab.0.right" timestamp="1579455730470">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579455730470" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1579455730474">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579455730474" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1579455730473">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579455730473" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1579455730471">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579455730471" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1579455730473">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579455730473" />
+    <state x="579" y="251" width="819" height="602" key="NewModule_or_Project.wizard" timestamp="1578995972382">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="579" y="251" width="819" height="602" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1578995972382" />
+    <state x="482" y="175" key="SettingsEditor" timestamp="1578330630286">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="175" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1578330630286" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579455836621">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579455836621" />
+    <state x="485" y="151" width="1006" height="803" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579091978989">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="485" y="151" width="1006" height="803" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579091978989" />
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1579104448248">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579104448248" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/NonBlockingConnectionHandler.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/NonBlockingConnectionHandler.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/NonBlockingConnectionHandler.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/NonBlockingConnectionHandler.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/stomp/StompServer.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BookClub.java</url>
+          <line>80</line>
+          <properties class="bgu.spl.net.srv.BookClub" method="subscribe_impl">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

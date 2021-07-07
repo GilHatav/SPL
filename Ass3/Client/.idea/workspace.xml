@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="384eca37-2b9a-4d49-a421-d243c88c28cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1W4y3J1X2fCSj3qxedUZailxyOm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="384eca37-2b9a-4d49-a421-d243c88c28cf" name="Default Changelist" comment="" />
+      <created>1578422960641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578422960641</updated>
+      <workItem from="1578422963867" duration="117000" />
+      <workItem from="1578423092723" duration="6000" />
+      <workItem from="1578423113070" duration="1293000" />
+      <workItem from="1578508569724" duration="9274000" />
+      <workItem from="1578519364335" duration="2132000" />
+      <workItem from="1578521562730" duration="822000" />
+      <workItem from="1578591498488" duration="5445000" />
+      <workItem from="1578836036462" duration="4760000" />
+      <workItem from="1578841581667" duration="992000" />
+      <workItem from="1578842963375" duration="870000" />
+      <workItem from="1578843835694" duration="2000" />
+      <workItem from="1578844068289" duration="11943000" />
+      <workItem from="1578927464394" duration="4543000" />
+      <workItem from="1578932180385" duration="715000" />
+      <workItem from="1578932945711" duration="740000" />
+      <workItem from="1578935325732" duration="238000" />
+      <workItem from="1578935610062" duration="2801000" />
+      <workItem from="1578940018256" duration="549000" />
+      <workItem from="1578940623069" duration="106000" />
+      <workItem from="1578941428097" duration="2629000" />
+      <workItem from="1579011452670" duration="2535000" />
+      <workItem from="1579039570155" duration="1268000" />
+      <workItem from="1579084362470" duration="13262000" />
+      <workItem from="1579102563622" duration="8984000" />
+      <workItem from="1579111589931" duration="1880000" />
+      <workItem from="1579113584774" duration="8803000" />
+      <workItem from="1579125587069" duration="2090000" />
+      <workItem from="1579169697486" duration="5582000" />
+      <workItem from="1579184076734" duration="10033000" />
+      <workItem from="1579194925161" duration="281000" />
+      <workItem from="1579195881535" duration="10000" />
+      <workItem from="1579196260514" duration="1587000" />
+      <workItem from="1579209949290" duration="542000" />
+      <workItem from="1579210519108" duration="4363000" />
+      <workItem from="1579214937589" duration="15000" />
+      <workItem from="1579254778735" duration="8826000" />
+      <workItem from="1579270796484" duration="1345000" />
+      <workItem from="1579272190068" duration="381000" />
+      <workItem from="1579365657335" duration="2201000" />
+      <workItem from="1579367928576" duration="2371000" />
+      <workItem from="1579374307888" duration="963000" />
+      <workItem from="1579444949830" duration="2793000" />
+      <workItem from="1579451178909" duration="3184000" />
+      <workItem from="1579454621677" duration="45000" />
+      <workItem from="1579454776868" duration="270000" />
+      <workItem from="1579455112754" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579446018002">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579446018002" />
+    <state width="1807" height="104" key="GridCell.Tab.0.bottom" timestamp="1579454492555">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="104" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579454492555" />
+    <state width="1807" height="104" key="GridCell.Tab.0.center" timestamp="1579454492554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="104" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579454492554" />
+    <state width="1807" height="104" key="GridCell.Tab.0.left" timestamp="1579454492554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="104" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579454492554" />
+    <state width="1807" height="104" key="GridCell.Tab.0.right" timestamp="1579454492555">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="104" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579454492555" />
+    <state width="1807" height="260" key="GridCell.Tab.1.bottom" timestamp="1579451042484">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="260" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579451042484" />
+    <state width="1807" height="260" key="GridCell.Tab.1.center" timestamp="1579451042484">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="260" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579451042484" />
+    <state width="1807" height="260" key="GridCell.Tab.1.left" timestamp="1579451042484">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="260" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579451042484" />
+    <state width="1807" height="260" key="GridCell.Tab.1.right" timestamp="1579451042484">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="260" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579451042484" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579455112710">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579455112710" />
+  </component>
+</project>
